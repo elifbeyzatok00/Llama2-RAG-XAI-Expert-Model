@@ -13,6 +13,7 @@ This project has been developed using the Llama2 Large Language Model specialize
 - **Ngrok**: Tool for exposing local servers to the internet
 - **Pinecone**: Cloud service used for vector database
 - **Langchain**: Library for natural language processing and data preparation
+- **RAG**: RAG, or Retrieval-Augmented Generation, is a hybrid approach that combines retrieval-based and generation-based methods for natural language processing tasks.
 - **HTML, CSS, JavaScript**: Technologies used for web interface development
 
 ## Project Structure and Installation
