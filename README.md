@@ -1,5 +1,5 @@
 # Llama2-RAG-XAI-Expert-Model
-Pre-Trained Llama2 Embedding RAG Expert Explainable AI LLM Model
+Pre-Trained Llama2 Embedding RAG Explainable Expert AI LLM Model
 
 ## Project Description
 
