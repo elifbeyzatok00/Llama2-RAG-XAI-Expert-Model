@@ -5,6 +5,16 @@ Pre-Trained Llama2 Embedding RAG Explainable Expert AI LLM Model
 
 This project has been developed using the Llama2 Large Language Model specialized in Explainable AI (XAI). The project embeds the Llama2 model with PDF datasets to allow users to ask questions and receive answers along with source documents.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9a61da5c-75de-4885-a1ab-f8977a28d887" alt="Project Workflow" />
+</p>
+<p align="center">Project Workflow</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/14763dee-c275-40af-bdc3-de4d9e454f7f" alt="Project Workflow" />
+</p>
+<p align="center">Project Web Interface</p>
+
 ## Technologies and Libraries Used
 
 - **Llama2 Model**: Large Language Model (LLM)
